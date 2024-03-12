@@ -8,5 +8,6 @@ export const Logo = () => {
         alt="logo"
         src = "/image1.PNG" />
      );
+    
 }
  
